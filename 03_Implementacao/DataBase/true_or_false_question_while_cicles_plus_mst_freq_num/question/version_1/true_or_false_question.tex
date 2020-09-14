@@ -1,0 +1,31 @@
+\documentclass[12pt,varwidth=16cm,border=1pt]{standalone}
+
+% este documento é um template.
+
+% este documento é usado pelo script make_random_versions.py para
+% criar as versões desta pergunta
+
+% pacote usado para mostrar listagens de programas
+\usepackage{listings}
+\renewcommand{\lstlistingname}{Listagem}
+\lstset{
+  language=python,
+  frame=single,
+}
+
+\begin{document}
+
+Considere o programa, Pyhton 3, que se segue. Implemente a função \verb+most_frequent_num(nums, max\_num)+, que retorna o número mais frequente da lista que tenha o valor inferior ao valor máximo fornecido, caso não tenha encontrado nenhum número, é retornado o valor "None", considere também que o valor 0 nesta questão não é considerado nem par nem ímpar.
+
+\lstinputlisting{program2.py}
+
+Exemplo de output da função \verb+most\_frequent\_num(nums, max\_num)+:
+
+\lstinputlisting{program3.py}
+
+Acrescente a este programa o código que lhe permita indicar se as
+afirmações seguintes são verdadeiras ou falsas.
+
+Indique se é verdadeiro ou falso.
+
+\end{document}

@@ -1,0 +1,25 @@
+\documentclass[12pt,varwidth=16cm,border=1pt]{standalone}
+
+% este documento é um template.
+
+% este documento é usado pelo script make_random_versions.py para
+% criar as versões desta pergunta
+
+% pacote usado para mostrar listagens de programas
+\usepackage{listings}
+\renewcommand{\lstlistingname}{Listagem}
+\lstset{
+	language=python,
+	basicstyle=\ttfamily\footnotesize,
+}
+
+\begin{document}
+Considere o programa, Pyhton 3, que se segue.  A função \verb+random_string_generator+ gera uma string de dimensão aleatória constituída por 3 tipos caracteres e a função \verb+message_optimizer+ comprime esta string da seguinte forma: sempre que existam caracteres iguais seguidos são substituídos pela identificação desse carácter seguido do número de ocorrências do mesmo, como por exemplo, a string "aaaaadaaafdddffd" será comprimida para "a5da3fd3f2d".
+
+\lstinputlisting{program.py}
+
+Acrescente a este programa o código que lhe permita indicar se as
+afirmações seguintes são verdadeiras ou falsas.
+
+Indique se é verdadeiro ou falso.
+\end{document}

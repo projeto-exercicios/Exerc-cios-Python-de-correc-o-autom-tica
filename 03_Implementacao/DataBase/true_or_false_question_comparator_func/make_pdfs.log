@@ -1,0 +1,1475 @@
+DEBUG:root:cd question/version_1; pdflatex essay_question.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_1; pdflatex tf_answer_1_true.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_1; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_1; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_1; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_1; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_1; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_2; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_2; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_2; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_2; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_2; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_3; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_3; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_3; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_3; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_3; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_4; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_4; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_4; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_4; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_4; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_5; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_5; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_5; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_5; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_5; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_6; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_6; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_6; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_6; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_6; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_7; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_7; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_7; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_7; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_7; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_8; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_8; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_8; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_8; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_8; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_9; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_9; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_9; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_9; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_9; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_10; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_10; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_10; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_10; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_10; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_1; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_1; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_1; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_1; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_1; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_2; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_2; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_2; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_2; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_2; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_3; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_3; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_3; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_3; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_3; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_4; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_4; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_4; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_4; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_4; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_5; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_5; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_5; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_5; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_5; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_6; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_6; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_6; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_6; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_6; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_7; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_7; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_7; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_7; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_7; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_8; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_8; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_8; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_8; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_8; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_9; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_9; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_9; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_9; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_9; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_10; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_10; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_10; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_10; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_10; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_1; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_1; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_1; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_1; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_1; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_1; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_1; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_2; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_2; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_2; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_2; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_2; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_2; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_2; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_3; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_3; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_3; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_3; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_3; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_3; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_3; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_4; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_4; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_4; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_4; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_4; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_4; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_4; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_5; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_5; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_5; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_5; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_5; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_5; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_5; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_6; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_6; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_6; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_6; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_6; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_6; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_6; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_7; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_7; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_7; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_7; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_7; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_7; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_7; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_8; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_8; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_8; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_8; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_8; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_8; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_8; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_9; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_9; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_9; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_9; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_9; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_9; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_9; pdflatex true_or_false_answer_5.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_question.tex
+DEBUG:root:cd question/version_10; pdflatex answer_1_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_1_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_1.tex
+DEBUG:root:cd question/version_10; pdflatex answer_2_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_2_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_2.tex
+DEBUG:root:cd question/version_10; pdflatex answer_3_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_3_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_3.tex
+DEBUG:root:cd question/version_10; pdflatex answer_4_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_4_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_4.tex
+DEBUG:root:cd question/version_10; pdflatex answer_5_true.tex
+DEBUG:root:cd question/version_10; pdflatex answer_5_false.tex
+DEBUG:root:cd question/version_10; pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex
+DEBUG:root:pdflatex true_or_false_question.tex
+DEBUG:root:pdflatex answer_1_true.tex
+DEBUG:root:pdflatex answer_1_false.tex
+DEBUG:root:pdflatex true_or_false_answer_1.tex
+DEBUG:root:pdflatex answer_2_true.tex
+DEBUG:root:pdflatex answer_2_false.tex
+DEBUG:root:pdflatex true_or_false_answer_2.tex
+DEBUG:root:pdflatex answer_3_true.tex
+DEBUG:root:pdflatex answer_3_false.tex
+DEBUG:root:pdflatex true_or_false_answer_3.tex
+DEBUG:root:pdflatex answer_4_true.tex
+DEBUG:root:pdflatex answer_4_false.tex
+DEBUG:root:pdflatex true_or_false_answer_4.tex
+DEBUG:root:pdflatex answer_5_true.tex
+DEBUG:root:pdflatex answer_5_false.tex
+DEBUG:root:pdflatex true_or_false_answer_5.tex

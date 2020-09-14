@@ -1,0 +1,5 @@
+sem __getitem__(self, idx) a class P suporta indexing
+True
+ é possível alterara o elementa na lista desta maneira p[index] = valor
+ print(p)
+19759

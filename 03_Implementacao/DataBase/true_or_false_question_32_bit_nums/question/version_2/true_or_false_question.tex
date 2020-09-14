@@ -1,0 +1,34 @@
+\documentclass[12pt,varwidth=16cm,border=1pt]{standalone}
+
+% este documento é um template.
+
+% este documento é usado pelo script make_random_versions.py para
+% criar as versões desta pergunta
+
+% pacote usado para mostrar listagens de programas
+\usepackage{listings}
+\renewcommand{\lstlistingname}{Listagem}
+\lstset{
+  language=python,
+  frame=single,
+  basicstyle=\ttfamily\footnotesize,
+}
+
+\begin{document}
+
+Considere o programa, Python 3, que se segue. Escreva a classe \verb+Reverser+. Os objetos da classe \verb+Reverser+ tem o método \verb+reverse()+. O método \verb+reverse()+ reverte todos os números que não possuam mais de 32 bits, ou seja, os números positivo com mais de 32 bits irão reverter para números negativos e vice-versa. 
+
+Escreva ainda as funções \verb+to_bits()+ e \verb+binary_sum()+, estas não são métodos da classe acima. A função \verb+to_bits()+ converte um número decimal em binário e a função \verb+binary_sum()+ soma dois números binários.
+
+\lstinputlisting{program2.py}
+
+Considere o código de testes, à classe \verb+Reverser+ e funções \verb+to_bits()+ e \verb+binary_sum()+, que se segue.
+
+\lstinputlisting{program3.py}
+
+Acrescente a este programa o código que lhe permita indicar se as
+afirmações seguintes são verdadeiras ou falsas.
+
+Indique se é verdadeiro ou falso.
+
+\end{document}

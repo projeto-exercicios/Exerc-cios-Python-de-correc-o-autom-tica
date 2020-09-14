@@ -1,0 +1,5 @@
+50
+7
+[]
+pares que impares
+61

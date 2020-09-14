@@ -1,0 +1,27 @@
+\documentclass[12pt,varwidth=16cm,border=1pt]{standalone}
+
+% este documento é um template.
+
+% este documento é usado pelo script make_random_versions.py para
+% criar as versões desta pergunta
+
+% pacote usado para mostrar listagens de programas
+\usepackage{listings}
+\renewcommand{\lstlistingname}{Listagem}
+\lstset{
+  language=python,
+  frame=single,
+}
+
+\begin{document}
+
+Considere o programa, Pyhton 3, que se segue. A lista \verb+n+ é constituída por pixeis RGB, simulando uma imagem. Para responder às questões seguintes acrescente ao código do enunciado código que permita guardar em \verb+o+ a conversão da imagem original para tons de cinzento e guardar em \verb+k+ a imagens em tons de cinzento aplicado um filtro de \verb+Treshold+ com um limiar de 135. Para converter a imagem em tons de cinzento use a equação \verb+0.2989 * R + \verb+0.5870 * G + \verb+0.1140 * B+, onde R, G e B são \textit{red}, \textit{green} e \textit{blue}, arredonde o resultado a duas casas decimais usando a função built-in \verb+round+
+
+\lstinputlisting{program.py}
+
+Acrescente a este programa o código que lhe permita indicar se as
+afirmações seguintes são verdadeiras ou falsas.
+
+Indique se é verdadeiro ou falso.
+
+\end{document}

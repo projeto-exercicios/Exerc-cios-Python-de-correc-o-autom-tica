@@ -1,0 +1,31 @@
+\documentclass[12pt,varwidth=16cm,border=1pt]{standalone}
+
+% este documento é um template.
+
+% este documento é usado pelo script make_random_versions.py para
+% criar as versões desta pergunta
+
+% pacote usado para mostrar listagens de programas
+\usepackage{listings}
+\renewcommand{\lstlistingname}{Listagem}
+\lstset{
+	language=python,
+	frame=single,
+}
+
+\begin{document}
+	
+Considere o programa, Pyhton 3, que se segue. A classe M dispõe do método \verb+__init__()+ que inicia um objeto da classe do tipo matriz e o método \verb+__repr__()+ que faz print da matriz. Crie o método \verb+row_times_column()+, que multiplica uma linha por uma coluna e vice-versa, recebe como parâmetros o índice da linha e coluna em questão, o método \verb+matrix_cross_product()+, que devolve o produto cruzado de uma matriz, o método \verb+std()+, que calcula o desvio padrão da matriz e finalmente o método \verb+mult_by_itself()+ que multiplica a matriz por si mesma.
+
+\lstinputlisting{program2.py}
+
+Para testar o funcionamento das funções execute o seguinte código.
+
+\lstinputlisting{program3.py}
+
+Acrescente a este programa o código que lhe permita indicar se as
+afirmações seguintes são verdadeiras ou falsas.
+
+Indique se é verdadeiro ou falso.
+	
+\end{document}

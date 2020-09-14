@@ -1,0 +1,113 @@
+%
+% Copyright 2013 João Beleza Sousa
+%
+% This file is part of questiom.org.
+%
+% questiom.org is free software: you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation, either version 3 of the License, or
+% (at your option) any later version.
+%
+% questiom.org is distributed in the hope that it will be useful, but
+% WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+% General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with questiom.  If not, see <http://www.gnu.org/licenses/>.
+%
+
+%
+% Quick manual.
+%
+% 1. Tex file example "answer.tex".
+%
+% 2. "answer.tex" content.
+%
+% \documentclass[12pt,varwidth=8.5in,border=1pt]{standalone}
+%
+% \usepackage{questiom}
+%
+% \begin{document}
+%
+% $1 + 1 = 2$
+%
+% \questiomtrue
+%
+% \end{document}
+%
+% 3. Command
+%
+% pdtlatex answer.tex
+%
+% 4. Python output file (besides the usual output files)
+%
+% "answer.solution"
+%
+% 5. "answer.solution" content
+%
+% true
+%
+% 6. To display true and false answers on the pdf use de debug option.
+% Write the folowing command before the \usepackage{questiom} command.
+%
+% \PassOptionsToPackage{debug}{questiom}
+%
+% History:
+%
+% 2020/04/05 changed \questiomright \questiomwrong to \questiomtrue
+%            and \questiomfalse, respectively. (jbs)
+%
+% 2020/03/11 moved from ifself to questiom
+%            now there should be only one command (\questiomright or
+%            \questiomwrong) per file
+%            each answer file is now a tex document of its own
+%
+% 2019/03/14 added debud option to quick manual
+%
+% 2017/10/12 debug option added. (jbs)
+%
+
+\def\fileversion{0.1}
+\def\filedate{2013/10/31}
+
+\NeedsTeXFormat{LaTeX2e}
+
+\ProvidesPackage{questiom}[\filedate\space Version \fileversion\space by
+  J. Beleza Sousa]
+
+% needed for debug option
+\RequirePackage{color}
+
+% the right answer command
+%\newcommand{\questiomright}[0]{\immediate\write\solutionsfile{[\arabic{enumi}, \arabic{enumii}, \arabic{enumiii}, True],}}
+%\newcommand{\questiomright}[0]{\immediate\write\solutionsfile{true}}
+\newcommand{\questiomtrue}[0]{\immediate\write\solutionsfile{true}}
+
+% the wrong answer command
+%\newcommand{\questiomwrong}[0]{\immediate\write\solutionsfile{[\arabic{enumi}, \arabic{enumii}, \arabic{enumiii}, False],}}
+%\newcommand{\questiomwrong}[0]{\immediate\write\solutionsfile{false}}
+\newcommand{\questiomfalse}[0]{\immediate\write\solutionsfile{false}}
+
+% opening and writing initialization text to the solutions file
+\AtBeginDocument{\newwrite\solutionsfile
+\immediate\openout\solutionsfile=\jobname.solution
+%\immediate\write\solutionsfile{ifself_solutions_list = [}
+}
+
+% writing finalization text and closing to the solutions file
+\AtEndDocument{%\immediate\write\solutionsfile{]}
+\immediate\closeout\solutionsfile}
+
+% debug option
+\DeclareOption{debug}{%
+  %\renewcommand{\questiomright}[0]{\immediate\write\solutionsfile{true}%
+  \renewcommand{\questiomtrue}[0]{\immediate\write\solutionsfile{true}%
+\fbox{\colorbox{green}{Esta resposta é VERDADEIRA}}}%
+  %\renewcommand{\questiomwrong}[0]{\immediate\write\solutionsfile{false}%
+  \renewcommand{\questiomfalse}[0]{\immediate\write\solutionsfile{false}%
+\fbox{\colorbox{red}{Esta resposta é FALSA}}}%
+}
+\ProcessOptions\relax
+
+\endinput

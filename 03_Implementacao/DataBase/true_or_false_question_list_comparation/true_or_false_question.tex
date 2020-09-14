@@ -1,0 +1,26 @@
+\documentclass[12pt,varwidth=16cm,border=1pt]{standalone}
+
+% este documento é um template.
+
+% este documento é usado pelo script make_random_versions.py para
+% criar as versões desta pergunta
+
+% pacote usado para mostrar listagens de programas
+\usepackage{listings}
+\renewcommand{\lstlistingname}{Listagem}
+\lstset{
+  language=python,
+  frame=single,
+}
+
+\begin{document}
+
+Considere o programa, Pyhton 3, que se segue. São apresentadas 3 listas, a lista \verb+a+ contém 9 números gerados aleatoriamente, a lista \verb+b+ contém \verb+_30+ números gerados aleatoriamente e a lista \verb+f+ contém o resultado da comparação das listas \verb+a+ e \verb+b+, se o valor das duas listas, no mesmo índice, for igual é adicionado nesta nova lista o valor True, caso contrário, será adicionado False.
+\lstinputlisting{program.py}
+
+Acrescente a este programa o código necessário que lhe permita indicar se as
+afirmações seguintes são verdadeiras ou falsas.
+
+Indique se é verdadeiro ou falso.
+
+\end{document}
